@@ -8,9 +8,9 @@ A visually appealing vertical timeline to showcase events or milestones in an al
 ✔️ Smooth hover effects 🖱️  
 ✔️ Easy to customize 🎨  
   
-## 📂 Website Structure  
+## 📂 Structure  
 
-The website consists of a single-page layout designed to showcase events or milestones in an alternating vertical timeline:  
+This vertical timeline consists of a single-page layout designed to showcase events or milestones in an alternating manner:  
 
 1. **Home Page – Vertical Timeline Overview** (index.html)  
    - Displays the entire timeline with alternating left-right alignment.  
@@ -29,8 +29,4 @@ The website consists of a single-page layout designed to showcase events or mile
 ## 🎓 Learning Outcomes  
 ✅ Improved CSS positioning & responsiveness  
 ✅ Enhanced hover effects & transitions  
-✅ Better understanding of layout structuring  
-
----
-
-💡 **Feel free to contribute and improve the design!** Fork & star ⭐ the repo if you find it useful.  
+✅ Better understanding of layout structuring   
